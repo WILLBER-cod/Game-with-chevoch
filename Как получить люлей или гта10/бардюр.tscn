@@ -1,5 +1,0 @@
-[gd_scene load_steps=2 format=2]
-
-[ext_resource path="res://ладжафт/дороги/бардюр.glb" type="PackedScene" id=1]
-
-[node name="бардюр" instance=ExtResource( 1 )]
